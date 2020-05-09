@@ -1,5 +1,5 @@
 # Producer & Consumer Using OpenMP For AUCSC 450
-### AUCSC 450 - Parallel and Distributed Computing At the University of Alberta, Augustana Campus.
+### AUCSC 450 - Parallel and Distributed Computing at the University of Alberta, Augustana Campus.
 
 Program will simulate the Producer/Consumer problem present in message passing
 using OpenMP. File initiates an array of queues, with queue belonging to a
